@@ -1,1 +1,3 @@
 This is my sample feature.Trying to get a conflict.
+This is my sample feature.Work in a different file
+
