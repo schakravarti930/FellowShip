@@ -1,1 +1,1 @@
-This is my sample feature.
+This is my sample feature.Trying to get a conflict.
