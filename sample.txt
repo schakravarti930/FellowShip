@@ -1,1 +1,2 @@
-This is my sample feature.
+This is my sample feature.Work in a different file
+
